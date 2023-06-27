@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color colorAccent
+color colorDivider
+color colorLightGreen
+color colorPrimary
+color colorPrimaryDark
+color colorPrimaryLight
+color colorPrimaryText
+color colorTextWhite
+color ic_launcher_background
+color white
+drawable background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button_confirm
+id check_participate
+id text_days_left
+id text_label_days_left
+id text_today
+layout activity_details
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+string dias
+string dias_restantes_para_a_festa_do_fim_de_ano
+string voce_vai_participar
+style Base.Theme.FestaFimDeAno
+style Theme.FestaFimDeAno
+xml backup_rules
+xml data_extraction_rules
