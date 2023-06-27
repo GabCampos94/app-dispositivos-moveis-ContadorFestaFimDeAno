@@ -12,6 +12,7 @@ color colorTextWhite
 color ic_launcher_background
 color white
 drawable background
+drawable button_background
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id button_confirm
@@ -27,6 +28,9 @@ mipmap ic_launcher_round
 string app_name
 string dias
 string dias_restantes_para_a_festa_do_fim_de_ano
+string nao
+string nao_confirmado
+string sim
 string voce_vai_participar
 style Base.Theme.FestaFimDeAno
 style Theme.FestaFimDeAno
